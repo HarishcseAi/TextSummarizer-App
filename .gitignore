@@ -1,0 +1,14 @@
+# Model weights
+saved_summary_model/model.safetensors
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
